@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <h1>Vuex Auth</h1>
+    <h1>Vuex Blog</h1>
     <!-- for all users -->
     <div>
       <router-link to="/">Home</router-link>
