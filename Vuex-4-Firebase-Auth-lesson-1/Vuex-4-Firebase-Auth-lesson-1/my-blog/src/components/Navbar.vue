@@ -1,6 +1,8 @@
 <template>
   <nav>
-    <h1>The Peanuts</h1>
+    <div class="Peanuts">
+    <router-link to="/">The Peanuts</router-link>
+    </div>
     <!-- for all users -->
     <div>
       <router-link to="/">Home</router-link>
