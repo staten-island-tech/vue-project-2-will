@@ -21,7 +21,9 @@
 </template>
 
 <script>
-export default {
-
-}
 </script>
+<style scoped>
+.Peanuts{
+  font-size:35px;
+}
+</style>
