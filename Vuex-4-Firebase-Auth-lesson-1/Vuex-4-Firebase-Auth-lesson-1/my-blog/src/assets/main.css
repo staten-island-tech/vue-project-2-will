@@ -13,8 +13,11 @@ body {
 
 /* navbar */
 nav {
-  display: flex;
+  /* display: flex; */
   align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  background-color: rgb(255, 217, 0);
 }
 nav h1 {
   margin-right: auto;
@@ -23,6 +26,7 @@ nav a,
 nav button,
 nav span {
   margin-right: 50px;
+  justify-content: center;
 }
 nav a {
   color: #444;
@@ -33,12 +37,18 @@ nav span {
   color: #777;
 }
 button {
-  background: #00dba4;
+  background: #467ce0;
   border: 0;
   padding: 6px 10px;
   border-radius: 20px;
   color: #fff;
   cursor: pointer;
+  text-align: center;
+}
+form {
+  align-content: center;
+  text-align: center;
+  margin: 0;
 }
 
 /* blogs */
@@ -51,7 +61,7 @@ button {
   color: #999;
 }
 .blog h3 {
-  color: #00dba4;
+  color: #467ce0;
 }
 .blog .icons {
   color: #555;
@@ -66,7 +76,7 @@ button {
   cursor: pointer;
 }
 .blog .icons .material-icons:hover {
-  color: #00dba4;
+  color: #467ce0;
 }
 
 /* forms */
@@ -78,4 +88,6 @@ label {
 form button {
   display: block;
   margin-top: 20px;
+  text-align: center;
+  justify-content: space-around;
 }
