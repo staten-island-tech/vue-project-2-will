@@ -20,9 +20,9 @@ import { ref } from 'vue'
 export default {
   setup() {
     const blogs = ref([
-      { title: 'Why Coffee is Better than Tea', id: 1 },
-      { title: '...Then I Took an Arrow in the Knee', id: 2 },
-      { title: 'Mario vs Luigi, Ultimate Showdown', id: 3 },
+      { title: 'Charlie Brown', id: 1 },
+      { title: 'Woodstock', id: 2 },
+      { title: 'Snoopy', id: 3 },
     ])
 
     return { 
