@@ -29,7 +29,7 @@ export default {
 }
 </script>
 <style scoped>
-.button{
+template{
   justify-content: center;
 }
 form{
@@ -38,5 +38,8 @@ form{
   margin:0;
   
 }
-
+.button {
+  margin-left: auto;
+  margin-right: auto;
+}
 </style>

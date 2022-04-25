@@ -8,7 +8,7 @@
     <label for="email">Password:</label>
     <input type="password" name="password" v-model="password" required>
 
-    <button>Sign up</button>
+    <button class="button">Sign up</button>
   </form>
 </template>
 
@@ -28,3 +28,10 @@ export default {
   }
 }
 </script>
+<style scoped>
+.button {
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
