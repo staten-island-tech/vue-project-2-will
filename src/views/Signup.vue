@@ -1,6 +1,6 @@
 <template>
   <form @submit.prevent="handleSubmit">
-    <h3>Login</h3>
+    <h3>Sign up</h3>
 
     <label for="email">Email:</label>
     <input type="email" name="email" v-model="email" required>
@@ -8,7 +8,7 @@
     <label for="email">Password:</label>
     <input type="password" name="password" v-model="password" required>
 
-    <button>Login</button>
+    <button class="button">Sign up</button>
   </form>
 </template>
 
@@ -28,3 +28,10 @@ export default {
   }
 }
 </script>
+<style scoped>
+.button {
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
