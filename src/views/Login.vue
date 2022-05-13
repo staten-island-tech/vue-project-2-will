@@ -8,7 +8,7 @@
         <label for="email">Password:</label>
         <input type="password" name="password" v-model="password" required>
     
-        <button>Login>/button>
+        <button>Login</button>
     </form>
 </template>
 
