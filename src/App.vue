@@ -15,7 +15,6 @@ useFirebaseStore().fetchUser()
 @import '@/assets/base.css';
 
 #app {
-  max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   font-weight: normal;
@@ -63,6 +62,7 @@ main{
     flex-wrap: wrap;
     align-content: center;
     justify-content: space-around;
+    
 }
 
 nav a.router-link-exact-active {
@@ -76,7 +76,6 @@ nav a.router-link-exact-active:hover {
 nav a {
   display: inline-block;
   padding: 0 1rem;
-  border-left: 1px solid var(--color-border);
 }
 
 nav a:first-of-type {
@@ -90,6 +89,7 @@ card {
   body {
     display: flex;
     place-items: center;
+    background-color: #dcf5f2;
   }
 
   #app {

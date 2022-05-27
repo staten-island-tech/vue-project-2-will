@@ -1,7 +1,7 @@
 <template>
   <nav>
     <h1>Switches! </h1>
-    <div>
+    <div class="navi">
       <div>
         <RouterLink to="/">Home</RouterLink>
       </div>
@@ -36,7 +36,10 @@ export default {
 </script>
 
 <style scoped>
-.h1{
-  font-size: 19px;
+.navi{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: .8rem;
 }
 </style>
