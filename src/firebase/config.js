@@ -1,6 +1,5 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
-
 const firebaseConfig = {
   apiKey: "AIzaSyC86UGeIuhl-nYjGKC3oSE-deek_wDoBdY",
   authDomain: "vuex4-firebase-auth-4ce11.firebaseapp.com",
@@ -11,8 +10,9 @@ const firebaseConfig = {
   measurementId: "G-GS0NQJWCWK",
 };
 
-initializeApp(firebaseConfig);
+// Initialize Firebase
 
+initializeApp(firebaseConfig);
 const auth = getAuth();
 
 export { auth };
