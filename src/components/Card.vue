@@ -38,6 +38,7 @@ export default {
   border-radius: 16px;
   background-color: #15263f;
   flex-direction: column;
+  color: white;
 }
 img{
     width: 100%;

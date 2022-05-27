@@ -19,6 +19,7 @@ useFirebaseStore().fetchUser()
   margin: 0 auto;
   padding: 2rem;
   font-weight: normal;
+  background-color:rgb(132, 228, 235)
   
 }
 
@@ -56,6 +57,14 @@ nav {
   background-color: #dcf5f2;
 }
 
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-around;
+}
+
 nav a.router-link-exact-active {
   color: var(--color-text);
 }
@@ -74,6 +83,9 @@ nav a:first-of-type {
   border: 0;
 }
 
+card {
+  color: white;
+}
 @media (min-width: 2560px) {
   body {
     display: flex;
