@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="curt">
     <CartCard
      v-for="switches in cart.prepCart"
      :key="switches"
@@ -27,5 +27,11 @@ export default {
 }
 </script>
 <style scoped>
-
+.curt{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-evenly;
+}
 </style>

@@ -1,107 +1,107 @@
 {
     "switches": [
       {
-        "name": "Gateron Reds",
+        "name": "Gateron Reds (35pcs)",
         "img":"https://m.media-amazon.com/images/I/61YcN0FU8TL._AC_SL1000_.jpg",
         "type": "Linear",
-        "price": "$1.25", 
+        "price": "$7.00", 
         "index": 0
       },
       {
-        "name": "Gateron Blacks",
+        "name": "Gateron Blacks (35pcs)",
         "img": "https://d2fu7qgd3tdbcc.cloudfront.net/images/detailed/2/Gateron_Black_60_800W.jpg?t=1452423586",
         "type": "Linear",
-        "price": "$1.25",
+        "price": "$7.00",
         "index": 1
       },
       {
-        "name": "Banana Split",
+        "name": "Banana Split (35pcs)",
         "img": "https://mechanicalkeyboardswitches.com/images/switches/C%C2%B3EQUALZ%20Banana%20Split.jpg",
         "type": "Linear",
-        "price": "$1.25",
+        "price": "$22.75",
         "index": 2
       },  
       {
-        "name": "Kailh Deep Sea",
+        "name": "Kailh Deep Sea (35pcs)",
         "img": "https://ae01.alicdn.com/kf/He8b7942fe22a44a889b419d4194cadafG/10PCS-Kailh-Deep-Sea-Ocean-BOX-V2-Switch-RGB-SMD-Silent-Linear-45g-Switches-For-Mechanical.jpg_Q90.jpg_.webp",
         "type": "Linear",
-        "price":"$1.25",
+        "price":"$31.00",
         "index":3
       },
       { 
-        "name": "TGolden Red",
+        "name": "TGolden Red (35pcs)",
         "img": "https://ae01.alicdn.com/kf/H79d4df9363124ad6af2f1e37c4ca63ffY/TTC-Golden-Red-Switch-V3-Mechanical-Keyboard-Customized-Linear-Switches-Transparent-Upper-Shell-3-Pins-43gf.jpg_Q90.jpg_.webp",
         "type": "Linear",
-        "price":"$1.25",
+        "price":"$15.75",
         "index":4
       },
       { 
-        "name": "Tecsee Coral",
+        "name": "Tecsee Coral (35pcs)",
         "img": "https://ae01.alicdn.com/kf/Hba251397ca68418aa2baadd362ddd3edT/Tecsee-Coral-Switch-Nylon-Top-PME-Bottom-Hosuing-Nylon-Tactile-Stem-68g-Gold-Standard-Spring.jpg_Q90.jpg_.webp",
         "type": "Tactile",
-        "price":"$1.25",
+        "price":"$22.75",
         "index":5
       },
       { 
-        "name": "Gateron blizzard",
+        "name": "Gateron Blizzard (35pcs)",
         "img": "https://ae01.alicdn.com/kf/Hefd52400c9674d83afc6e7956f299d00W/KBDfans-Gateron-Blizzard-Tactile-Switches-10PCS-Pre-lubed-PCB-Mount-5pin-MX-Stem-For-Mechanical-Keyboard.jpg_Q90.jpg_.webp",
         "type": "Tactile",
-        "price":"$1.25",
+        "price":"$22.75",
         "index":6
       },
       { 
-        "name": "Kailh Polia",
+        "name": "Kailh Polia (35pcs)",
         "img": "https://ae01.alicdn.com/kf/Hc9a9e994d875488f9e264310a814cc21j/Kailh-Polia-Switch-RGB-SMD-pinks-Tactile-Switches-3pin-Switch-For-Mechanical-keyboard-mx-stem-purple.jpg_Q90.jpg_.webp",
         "type": "Tactile",
-        "price":"$1.25",
+        "price":"$21.00",
         "index":7
       },
       { 
-        "name": "TTC Bluish White",
+        "name": "TTC Bluish White (35pcs)",
         "img": "https://1upkeyboards.com/wp-content/uploads/2021/03/Switches-TTC-Blueish-White-PCB-01.jpg",
         "type": "Tactile",
-        "price":"$1.25",
+        "price":"$16.80",
         "index":8
       },
       { 
-        "name": "HaRoyal clear",
+        "name": "Hako Royal Clear (35pcs)",
         "img": "https://ae04.alicdn.com/kf/H4b9a6092802549ad8aa6d145057a450eL.jpg",
         "type": "Tactile",
-        "price":"$1.25",
+        "price":"$19.25",
         "index":9
       },
       { 
-        "name": "Kailh BOX White",
-        "img": "https://cdn.shopify.com/s/files/1/1473/3902/products/11_ba728afa-4417-4382-9e06-086ce4cd2ac6.jpg?v=1594719270",
+        "name": "Kailh BOX White (35pcs)",
+        "img": "https://www.mechanicalkeyboards.com/switches/images/Kailh_BOX_White_Switch_38ea5_large.jpg",
         "type": "Clicky",
-        "price":"$1.25",
+        "price":"$13.30",
         "index":10
       },
       { 
-        "name": "Kailh BOX Jade",
+        "name": "Kailh BOX Jade (35pcs)",
         "img": "https://cdn.shopify.com/s/files/1/1473/3902/products/3_74665e23-f096-4a67-aadd-6a19e7d4e323.jpg?v=1594719500",
         "type": "Clicky",
-        "price":"$1.25",
+        "price":"$15.75",
         "index":11
       },
       { 
-        "name": "Kailh Speed Copper",
+        "name": "Kailh Speed Copper (35pcs)",
         "img": "https://i0.wp.com/www.upgradekeyboards.com/wp-content/uploads/2020/07/kailh-speed-copper.jpg?fit=1080%2C1080&ssl=1",
         "type": "Clicky",
-        "price":"$1.25",
+        "price":"$9.80",
         "index":12
       },
       { 
-        "name": "NovelKeys Sherbet",
+        "name": "NovelKeys Sherbet (35pcs)",
         "img": "https://cdn.shopify.com/s/files/1/0573/7339/3094/products/product-image-1769291647_1500x.jpg?v=1624488699",
         "type": "Clicky",
-        "price":"$1.25",
+        "price":"$15.75",
         "index":13
       },
       { 
-        "name": "Cherry MX Blue",
+        "name": "Cherry MX Blue (35pcs)",
         "img": "http://input.club/wp-content/uploads/2016/08/switch-setup-7.jpg",
         "type": "Clicky",
-        "price":"$1.25",
+        "price":"$12.25",
         "index":14
       }]}

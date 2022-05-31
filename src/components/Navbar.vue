@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <h1>Switches! </h1>
+    <h1>Switches!</h1>
     <div class="navi">
       <div>
         <RouterLink to="/">Home</RouterLink>
@@ -40,6 +40,15 @@ export default {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  padding-top: .8rem;
+  align-items: center;
+}
+@media (max-width: 640px) {
+  .navi{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  }
+
 }
 </style>

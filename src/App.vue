@@ -18,7 +18,7 @@ useFirebaseStore().fetchUser()
   margin: 0 auto;
   padding: 2rem;
   font-weight: normal;
-  background-color:rgb(132, 228, 235)
+  /* background-image: linear-gradient(to bottom, rgba(132, 228, 235,.7), rgb(47, 231, 185)); */
   
 }
 
@@ -54,6 +54,8 @@ nav {
   flex-direction: row;
   font-size: 1.9rem;
   background-color: #dcf5f2;
+  border: aliceblue;
+  border-radius: 13px;
 }
 
 main{
@@ -85,15 +87,15 @@ nav a:first-of-type {
 card {
   color: white;
 }
-@media (min-width: 2560px) {
+@media (max-width: 2560px) {
   body {
     display: flex;
     place-items: center;
-    background-color: #dcf5f2;
+    background-image: linear-gradient(to bottom, rgba(132, 228, 235,.7), rgb(47, 231, 185));
   }
 
   #app {
-    display: grid;
+    /* display: grid; */
     grid-template-columns: 1fr 1fr;
     padding: 0 2rem;
   }
@@ -115,8 +117,6 @@ card {
   }
 
   nav {
-    /* text-align: left;
-    margin-left: -1rem; */
     font-size: 1rem;
     padding: 1rem 0;
     margin-top: 1rem;
